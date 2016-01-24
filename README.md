@@ -3,7 +3,7 @@
 title: 'Reproductible Research : Projet Assignment Week1'
 author: "Elise VI NHU BA"
 date: "24 janvier 2016"
-output: index.pdf
+output Report : index.pdf
 ---
 
 ## Loading and preprocessing the data
